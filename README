@@ -1,0 +1,13 @@
+Name: Ricardo Avila
+ID: 830323421
+
+Structure of Program:
+File organization: plants.cpp
+Functional organization: Main() takes input of how many plants we start with
+and then asks for the temperatures of the following 7 days and gives total sold at end of week
+
+Status: It works completely
+
+Hardware & platform I used: Intel core i7 with 16GB RAM MacOS
+
+Compile: extract the archive and then from shell run "make". This will create executable hw1 and then run ./hw1
